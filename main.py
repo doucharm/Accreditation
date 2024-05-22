@@ -1,4 +1,3 @@
-
 from selenium.webdriver import Edge, EdgeOptions
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
@@ -9,15 +8,15 @@ def log_in_hanlder(driver,credentials):
     username_field = driver.find_element(By.NAME, "Username")
     username_field.clear()
     username_field.send_keys(credentials['email'])
-    time.sleep(1)
+    time.sleep(0.5)
     
     password_field = driver.find_element(By.NAME, "Password") 
     password_field.clear()
     password_field.send_keys(credentials['password'])
-    time.sleep(1)
+    time.sleep(0.5)
     
     password_field.send_keys(Keys.RETURN)
-    time.sleep(5)
+    time.sleep(0.5)
     print("Finish logging in")
 def get_data_online(url,credentials) -> list:
     options = EdgeOptions()
@@ -30,7 +29,8 @@ def get_data_online(url,credentials) -> list:
     except:
         print(Exception)
     #attempt to collect data from webpage
-    data = driver.page_source
+    matches = driver.find_element(By.TAG_NAME, "pre").text
+    data = json.loads(matches)
     driver.quit()
     return data
 def get_data_local(file_name) -> list:
@@ -59,6 +59,5 @@ def main():
     credentials=get_credentials()
     data = get_data_online(data_source,credentials=credentials)
     store_data(data=data)
-    print(data)
 if __name__ == '__main__':
     main()
