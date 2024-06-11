@@ -18,6 +18,6 @@ def unique_instance(list):
     print('Number of duplicated instances',len(list)-len(data))
     return data
 
-        
+
     
 

@@ -1,0 +1,54 @@
+{
+    "classification":
+    {
+        "id": "ce250bd0-b095-11ed-9bd8-0242ac110002", 
+        "student_id": "2d9dc5ca-a4a2-11ed-b9df-0242ac120003",
+        "semester_id": "ce250af4-b095-11ed-9bd8-0242ac110002",
+        "classificationlevel_id": "5faea396-b095-11ed-9bd8-0242ac110002",
+        "lastchange": "2023-04-19T08:00:00",
+        "date": "2023-04-19T08:00:00",
+        "order": 1
+    },
+    "acclassificationtypes":
+    [
+        {"id": "a00a0322-b095-11ed-9bd8-0242ac110002" , "name": "Z", "name_en": ""},
+        {"id": "a00a0642-b095-11ed-9bd8-0242ac110002" , "name": "Z+Zk", "name_en": ""},
+        {"id": "a00a06f6-b095-11ed-9bd8-0242ac110002" , "name": "Zk", "name_en": ""},
+        {"id": "a00a076e-b095-11ed-9bd8-0242ac110002" , "name": "KZ", "name_en": ""}
+    ],
+    "acclassificationlevels": 
+    [
+        {"id": "5fae9dd8-b095-11ed-9bd8-0242ac110002" , "name": "A", "name_en": "A"},
+        {"id": "5faea134-b095-11ed-9bd8-0242ac110002" , "name": "B", "name_en": "B"},
+        {"id": "5faea21a-b095-11ed-9bd8-0242ac110002" , "name": "C", "name_en": "C"},
+        {"id": "5faea2d8-b095-11ed-9bd8-0242ac110002" , "name": "D", "name_en": "D"},
+        {"id": "5faea332-b095-11ed-9bd8-0242ac110002" , "name": "E", "name_en": "E"},
+        {"id": "5faea396-b095-11ed-9bd8-0242ac110002" , "name": "F", "name_en": "F"}
+    ],
+    "acsemesters": 
+    [
+        {
+            "id": "ce250af4-b095-11ed-9bd8-0242ac110002",
+            "subject_id": "ce250a68-b095-11ed-9bd8-0242ac110002",
+            "classificationtype_id": "a00a0642-b095-11ed-9bd8-0242ac110002",
+            "lastchange": "2023-04-19T08:00:00",
+            "order": 1, "credits": 24 
+        }
+    ],
+    "acsubjects": [
+        {
+            "id": "ce250a68-b095-11ed-9bd8-0242ac110002",
+            "program_id": "2766fc9a-b095-11ed-9bd8-0242ac110002",
+            "lastchange": "2023-04-19T08:00:00",
+            "name": "Programování", "name_en": "",
+            "group_id": "e5d19e4b-4098-4972-960a-4a584bd8ed3f"
+        },
+        {
+            "id": "3ed497ea-ab40-4e94-a93e-9d9627497652",
+            "program_id": "2766fc9a-b095-11ed-9bd8-0242ac110002",
+            "lastchange": "2023-04-19T08:00:00",
+            "name": "Databáze", "name_en": "",
+            "group_id": "e5d19e4b-4098-4972-960a-4a584bd8ed3f"
+        }
+    ]
+}
