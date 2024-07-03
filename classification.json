@@ -1,226 +1,338 @@
 [
-    {
-        "id": "a38386f1-62a3-41f6-9757-95b159268ef7",
-        "student_id": "2d9dc5ca-a4a2-11ed-b9df-0242ac120003",
-        "semester_id": "ce250af4-b095-11ed-9bd8-0242ac110002",
-        "classificationlevel_id": "5fae9dd8-b095-11ed-9bd8-0242ac110002",
-        "order": 1,
-        "date": "2024-06-09 11:40:54.959769"
-    },
-    {
-        "id": "75dd1c57-7078-443d-ba60-a817990fb47a",
-        "student_id": "2d9dc868-a4a2-11ed-b9df-0242ac120003",
-        "semester_id": "ce250af4-b095-11ed-9bd8-0242ac110002",
-        "classificationlevel_id": "5fae9dd8-b095-11ed-9bd8-0242ac110002",
-        "order": 2,
-        "date": "2024-06-09 11:40:54.959769"
-    },
-    {
-        "id": "377f3423-05dd-41a3-8707-4f439788d043",
-        "student_id": "2d9dc9a8-a4a2-11ed-b9df-0242ac120003",
-        "semester_id": "ce250af4-b095-11ed-9bd8-0242ac110002",
-        "classificationlevel_id": "5fae9dd8-b095-11ed-9bd8-0242ac110002",
-        "order": 1,
-        "date": "2024-06-09 11:40:54.959769"
-    },
-    {
-        "id": "662eb427-9f6b-4e8e-81db-99d078c35103",
-        "student_id": "2d9dcbec-a4a2-11ed-b9df-0242ac120003",
-        "semester_id": "ce250af4-b095-11ed-9bd8-0242ac110002",
-        "classificationlevel_id": "5faea332-b095-11ed-9bd8-0242ac110002",
-        "order": 1,
-        "date": "2024-06-09 11:40:54.959769"
-    },
-    {
-        "id": "111862a4-cf7c-4a26-a2dc-9553b31d1907",
-        "student_id": "89d1e724-ae0f-11ed-9bd8-0242ac110002",
-        "semester_id": "ce250af4-b095-11ed-9bd8-0242ac110002",
-        "classificationlevel_id": "5faea134-b095-11ed-9bd8-0242ac110002",
-        "order": 1,
-        "date": "2024-06-09 11:40:54.959769"
-    },
-    {
-        "id": "0565db2a-a1ba-4458-8550-ff0befc179f0",
-        "student_id": "2d9dc5ca-a4a2-11ed-b9df-0242ac120003",
-        "semester_id": "f6f0cca7-d5b1-4ab6-881f-792b964fe261",
-        "classificationlevel_id": "5faea332-b095-11ed-9bd8-0242ac110002",
-        "order": 1,
-        "date": "2024-06-09 11:40:54.959769"
-    },
-    {
-        "id": "c4b2bc70-4e1c-431d-a94b-7d238e8bbf1b",
-        "student_id": "2d9dc868-a4a2-11ed-b9df-0242ac120003",
-        "semester_id": "f6f0cca7-d5b1-4ab6-881f-792b964fe261",
-        "classificationlevel_id": "5faea332-b095-11ed-9bd8-0242ac110002",
-        "order": 1,
-        "date": "2024-06-09 11:40:54.959769"
-    },
-    {
-        "id": "6a229bd8-bd1b-4f42-a3c7-640166f299b3",
-        "student_id": "2d9dc9a8-a4a2-11ed-b9df-0242ac120003",
-        "semester_id": "f6f0cca7-d5b1-4ab6-881f-792b964fe261",
-        "classificationlevel_id": "5faea2d8-b095-11ed-9bd8-0242ac110002",
-        "order": 1,
-        "date": "2024-06-09 11:40:54.959769"
-    },
-    {
-        "id": "31d95ca7-44fb-4a2e-90aa-7378ac7963ae",
-        "student_id": "2d9dcbec-a4a2-11ed-b9df-0242ac120003",
-        "semester_id": "f6f0cca7-d5b1-4ab6-881f-792b964fe261",
-        "classificationlevel_id": "5faea134-b095-11ed-9bd8-0242ac110002",
-        "order": 1,
-        "date": "2024-06-09 11:40:54.959769"
-    },
-    {
-        "id": "8f6b8039-7a8b-4a81-a37d-c20373aaa71a",
-        "student_id": "89d1e724-ae0f-11ed-9bd8-0242ac110002",
-        "semester_id": "f6f0cca7-d5b1-4ab6-881f-792b964fe261",
-        "classificationlevel_id": "5faea332-b095-11ed-9bd8-0242ac110002",
-        "order": 1,
-        "date": "2024-06-09 11:40:54.959769"
-    },
-    {
-        "id": "3cf4814e-5573-47e7-bd13-dd1de55301d1",
-        "student_id": "89d1f34a-ae0f-11ed-9bd8-0242ac110002",
-        "semester_id": "ce250af4-b095-11ed-9bd8-0242ac110002",
-        "classificationlevel_id": "5faea134-b095-11ed-9bd8-0242ac110002",
-        "order": 1,
-        "date": "2024-06-09 11:40:54.959769"
-    },
-    {
-        "id": "a7d044cc-3559-4cd0-9fd3-1c100188d62d",
-        "student_id": "89d1f3cc-ae0f-11ed-9bd8-0242ac110002",
-        "semester_id": "ce250af4-b095-11ed-9bd8-0242ac110002",
-        "classificationlevel_id": "5fae9dd8-b095-11ed-9bd8-0242ac110002",
-        "order": 1,
-        "date": "2024-06-09 11:40:54.959769"
-    },
-    {
-        "id": "ec1f0cd9-7eeb-4b8c-bdf7-ff890059fde5",
-        "student_id": "89d1f430-ae0f-11ed-9bd8-0242ac110002",
-        "semester_id": "ce250af4-b095-11ed-9bd8-0242ac110002",
-        "classificationlevel_id": "5faea332-b095-11ed-9bd8-0242ac110002",
-        "order": 1,
-        "date": "2024-06-09 11:40:54.959769"
-    },
-    {
-        "id": "fdef453f-aa0a-48bc-9229-ffd3dc631ae2",
-        "student_id": "89d1f48a-ae0f-11ed-9bd8-0242ac110002",
-        "semester_id": "ce250af4-b095-11ed-9bd8-0242ac110002",
-        "classificationlevel_id": "5faea332-b095-11ed-9bd8-0242ac110002",
-        "order": 1,
-        "date": "2024-06-09 11:40:54.959769"
-    },
-    {
-        "id": "d258b165-48c0-4a90-925d-b1255cb3aab9",
-        "student_id": "89d1f4e4-ae0f-11ed-9bd8-0242ac110002",
-        "semester_id": "ce250af4-b095-11ed-9bd8-0242ac110002",
-        "classificationlevel_id": "5fae9dd8-b095-11ed-9bd8-0242ac110002",
-        "order": 1,
-        "date": "2024-06-09 11:40:54.959769"
-    },
-    {
-        "id": "a4082e57-0c8a-45a7-96d0-f775bd847c96",
-        "student_id": "89d1f534-ae0f-11ed-9bd8-0242ac110002",
-        "semester_id": "ce250af4-b095-11ed-9bd8-0242ac110002",
-        "classificationlevel_id": "5fae9dd8-b095-11ed-9bd8-0242ac110002",
-        "order": 1,
-        "date": "2024-06-09 11:40:54.959769"
-    },
-    {
-        "id": "fb6926d7-cb5a-4bf8-ac0d-d2da52d7e5a4",
-        "student_id": "89d1f58e-ae0f-11ed-9bd8-0242ac110002",
-        "semester_id": "ce250af4-b095-11ed-9bd8-0242ac110002",
-        "classificationlevel_id": "5fae9dd8-b095-11ed-9bd8-0242ac110002",
-        "order": 1,
-        "date": "2024-06-09 11:40:54.959769"
-    },
-    {
-        "id": "9df75f91-f017-4f3f-bd9a-e5de97e5cf08",
-        "student_id": "89d1f5de-ae0f-11ed-9bd8-0242ac110002",
-        "semester_id": "ce250af4-b095-11ed-9bd8-0242ac110002",
-        "classificationlevel_id": "5faea134-b095-11ed-9bd8-0242ac110002",
-        "order": 1,
-        "date": "2024-06-09 11:40:54.959769"
-    },
-    {
-        "id": "5e17c866-34bf-4635-9774-4b6eb2f9ad67",
-        "student_id": "89d1f638-ae0f-11ed-9bd8-0242ac110002",
-        "semester_id": "ce250af4-b095-11ed-9bd8-0242ac110002",
-        "classificationlevel_id": "5faea332-b095-11ed-9bd8-0242ac110002",
-        "order": 1,
-        "date": "2024-06-09 11:40:54.959769"
-    },
-    {
-        "id": "baccfa28-29e2-41a9-9974-ff1e082dcd75",
-        "student_id": "89d1f34a-ae0f-11ed-9bd8-0242ac110002",
-        "semester_id": "f6f0cca7-d5b1-4ab6-881f-792b964fe261",
-        "classificationlevel_id": "5fae9dd8-b095-11ed-9bd8-0242ac110002",
-        "order": 1,
-        "date": "2024-06-09 11:40:54.959769"
-    },
-    {
-        "id": "cb96b2b3-740a-407a-9e96-d4454e51f04b",
-        "student_id": "89d1f3cc-ae0f-11ed-9bd8-0242ac110002",
-        "semester_id": "f6f0cca7-d5b1-4ab6-881f-792b964fe261",
-        "classificationlevel_id": "5faea134-b095-11ed-9bd8-0242ac110002",
-        "order": 1,
-        "date": "2024-06-09 11:40:54.959769"
-    },
-    {
-        "id": "517ced94-1dff-4556-a237-a73db6cfcc63",
-        "student_id": "89d1f430-ae0f-11ed-9bd8-0242ac110002",
-        "semester_id": "f6f0cca7-d5b1-4ab6-881f-792b964fe261",
-        "classificationlevel_id": "5faea21a-b095-11ed-9bd8-0242ac110002",
-        "order": 2,
-        "date": "2024-06-09 11:40:54.959769"
-    },
-    {
-        "id": "4c6f6575-99b3-4718-b4f6-45b77d1e46ce",
-        "student_id": "89d1f48a-ae0f-11ed-9bd8-0242ac110002",
-        "semester_id": "f6f0cca7-d5b1-4ab6-881f-792b964fe261",
-        "classificationlevel_id": "5fae9dd8-b095-11ed-9bd8-0242ac110002",
-        "order": 1,
-        "date": "2024-06-09 11:40:54.959769"
-    },
-    {
-        "id": "c4ede61e-160a-4c67-984d-4bb917c6b75f",
-        "student_id": "89d1f4e4-ae0f-11ed-9bd8-0242ac110002",
-        "semester_id": "f6f0cca7-d5b1-4ab6-881f-792b964fe261",
-        "classificationlevel_id": "5faea21a-b095-11ed-9bd8-0242ac110002",
-        "order": 1,
-        "date": "2024-06-09 11:40:54.959769"
-    },
-    {
-        "id": "b34fd640-1e6a-4e00-8886-5a78442e92a2",
-        "student_id": "89d1f534-ae0f-11ed-9bd8-0242ac110002",
-        "semester_id": "f6f0cca7-d5b1-4ab6-881f-792b964fe261",
-        "classificationlevel_id": "5faea396-b095-11ed-9bd8-0242ac110002",
-        "order": 1,
-        "date": "2024-06-09 11:40:54.959769"
-    },
-    {
-        "id": "f1394597-31d8-46f6-b598-1f7f2bf00872",
-        "student_id": "89d1f58e-ae0f-11ed-9bd8-0242ac110002",
-        "semester_id": "f6f0cca7-d5b1-4ab6-881f-792b964fe261",
-        "classificationlevel_id": "5faea134-b095-11ed-9bd8-0242ac110002",
-        "order": 2,
-        "date": "2024-06-09 11:40:54.959769"
-    },
-    {
-        "id": "d9382e48-aeb7-4ddf-b3ca-ab83398c9f5f",
-        "student_id": "89d1f5de-ae0f-11ed-9bd8-0242ac110002",
-        "semester_id": "f6f0cca7-d5b1-4ab6-881f-792b964fe261",
-        "classificationlevel_id": "5fae9dd8-b095-11ed-9bd8-0242ac110002",
-        "order": 1,
-        "date": "2024-06-09 11:40:54.959769"
-    },
-    {
-        "id": "ebdecf4a-8120-43e4-9ef6-6f0c77e08ec3",
-        "student_id": "89d1f638-ae0f-11ed-9bd8-0242ac110002",
-        "semester_id": "f6f0cca7-d5b1-4ab6-881f-792b964fe261",
-        "classificationlevel_id": "5faea134-b095-11ed-9bd8-0242ac110002",
-        "order": 2,
-        "date": "2024-06-09 11:40:54.959769"
-    }
+    [
+        {
+            "id": "8491f877-f6f8-4e32-bd0b-c79e6c4d98d1",
+            "student_id": "2d9dc5ca-a4a2-11ed-b9df-0242ac120003",
+            "semester_id": "ce250af4-b095-11ed-9bd8-0242ac110002",
+            "classificationlevel_id": "5faea21a-b095-11ed-9bd8-0242ac110002",
+            "order": 1,
+            "date": "2024-06-19 09:30:30.521396"
+        }
+    ],
+    [
+        {
+            "id": "27e5fe49-79a1-49d6-998f-f3404d5b04e2",
+            "student_id": "2d9dc868-a4a2-11ed-b9df-0242ac120003",
+            "semester_id": "ce250af4-b095-11ed-9bd8-0242ac110002",
+            "classificationlevel_id": "5fae9dd8-b095-11ed-9bd8-0242ac110002",
+            "order": 1,
+            "date": "2024-06-19 09:30:30.521396"
+        }
+    ],
+    [
+        {
+            "id": "60a012f7-f230-4473-8282-68aaa545fa9d",
+            "student_id": "2d9dc9a8-a4a2-11ed-b9df-0242ac120003",
+            "semester_id": "ce250af4-b095-11ed-9bd8-0242ac110002",
+            "classificationlevel_id": "5faea21a-b095-11ed-9bd8-0242ac110002",
+            "order": 1,
+            "date": "2024-06-19 09:30:30.521396"
+        },
+        {
+            "id": "cf9b57f6-0e8b-426a-8f0a-5523ed4c876a",
+            "student_id": "2d9dc9a8-a4a2-11ed-b9df-0242ac120003",
+            "semester_id": "ce250af4-b095-11ed-9bd8-0242ac110002",
+            "classificationlevel_id": "5faea21a-b095-11ed-9bd8-0242ac110002",
+            "order": 2,
+            "date": "2024-06-19 09:30:30.521396"
+        }
+    ],
+    [
+        {
+            "id": "0a8ab376-574a-4d96-81ee-2473f887ad45",
+            "student_id": "2d9dcbec-a4a2-11ed-b9df-0242ac120003",
+            "semester_id": "ce250af4-b095-11ed-9bd8-0242ac110002",
+            "classificationlevel_id": "5faea332-b095-11ed-9bd8-0242ac110002",
+            "order": 1,
+            "date": "2024-06-19 09:30:30.521396"
+        }
+    ],
+    [
+        {
+            "id": "2cf65f27-bb54-4825-ad63-7a12f4e3c92e",
+            "student_id": "89d1e724-ae0f-11ed-9bd8-0242ac110002",
+            "semester_id": "ce250af4-b095-11ed-9bd8-0242ac110002",
+            "classificationlevel_id": "5faea332-b095-11ed-9bd8-0242ac110002",
+            "order": 1,
+            "date": "2024-06-19 09:30:30.521396"
+        }
+    ],
+    [
+        {
+            "id": "ddae2643-8be7-4d05-aa40-cf96ea2cfe4c",
+            "student_id": "2d9dc5ca-a4a2-11ed-b9df-0242ac120003",
+            "semester_id": "f6f0cca7-d5b1-4ab6-881f-792b964fe261",
+            "classificationlevel_id": "5faea396-b095-11ed-9bd8-0242ac110002",
+            "order": 1,
+            "date": "2024-06-19 09:30:30.521396"
+        }
+    ],
+    [
+        {
+            "id": "df46e13a-6b5c-4b56-9d38-0ca04f3126c5",
+            "student_id": "2d9dc868-a4a2-11ed-b9df-0242ac120003",
+            "semester_id": "f6f0cca7-d5b1-4ab6-881f-792b964fe261",
+            "classificationlevel_id": "5fae9dd8-b095-11ed-9bd8-0242ac110002",
+            "order": 1,
+            "date": "2024-06-19 09:30:30.521396"
+        }
+    ],
+    [
+        {
+            "id": "5b8f0567-25b7-4e80-9372-2d923df14cba",
+            "student_id": "2d9dc9a8-a4a2-11ed-b9df-0242ac120003",
+            "semester_id": "f6f0cca7-d5b1-4ab6-881f-792b964fe261",
+            "classificationlevel_id": "5faea396-b095-11ed-9bd8-0242ac110002",
+            "order": 1,
+            "date": "2024-06-19 09:30:30.521396"
+        }
+    ],
+    [
+        {
+            "id": "97cd1ffd-a835-46ae-9962-1ad5f192efc9",
+            "student_id": "2d9dcbec-a4a2-11ed-b9df-0242ac120003",
+            "semester_id": "f6f0cca7-d5b1-4ab6-881f-792b964fe261",
+            "classificationlevel_id": "5faea2d8-b095-11ed-9bd8-0242ac110002",
+            "order": 1,
+            "date": "2024-06-19 09:30:30.521396"
+        },
+        {
+            "id": "f4d1aa5d-5c49-42ba-8e8a-b16189181d1f",
+            "student_id": "2d9dcbec-a4a2-11ed-b9df-0242ac120003",
+            "semester_id": "f6f0cca7-d5b1-4ab6-881f-792b964fe261",
+            "classificationlevel_id": "5faea396-b095-11ed-9bd8-0242ac110002",
+            "order": 2,
+            "date": "2024-06-19 09:30:30.521396"
+        }
+    ],
+    [
+        {
+            "id": "8875a2f3-4558-482c-b1cd-afda2c2a5023",
+            "student_id": "89d1e724-ae0f-11ed-9bd8-0242ac110002",
+            "semester_id": "f6f0cca7-d5b1-4ab6-881f-792b964fe261",
+            "classificationlevel_id": "5faea134-b095-11ed-9bd8-0242ac110002",
+            "order": 1,
+            "date": "2024-06-19 09:30:30.521396"
+        }
+    ],
+    [
+        {
+            "id": "bbd0b09a-08c8-4453-bafc-dc26c368a95c",
+            "student_id": "89d1f34a-ae0f-11ed-9bd8-0242ac110002",
+            "semester_id": "ce250af4-b095-11ed-9bd8-0242ac110002",
+            "classificationlevel_id": "5faea134-b095-11ed-9bd8-0242ac110002",
+            "order": 1,
+            "date": "2024-06-19 09:30:30.521396"
+        }
+    ],
+    [
+        {
+            "id": "074f7c81-f538-4823-a966-1222b4f61e80",
+            "student_id": "89d1f3cc-ae0f-11ed-9bd8-0242ac110002",
+            "semester_id": "ce250af4-b095-11ed-9bd8-0242ac110002",
+            "classificationlevel_id": "5faea396-b095-11ed-9bd8-0242ac110002",
+            "order": 1,
+            "date": "2024-06-19 09:30:30.521396"
+        }
+    ],
+    [
+        {
+            "id": "7bbbb55b-1a32-4f85-a998-043921ccd805",
+            "student_id": "89d1f430-ae0f-11ed-9bd8-0242ac110002",
+            "semester_id": "ce250af4-b095-11ed-9bd8-0242ac110002",
+            "classificationlevel_id": "5fae9dd8-b095-11ed-9bd8-0242ac110002",
+            "order": 1,
+            "date": "2024-06-19 09:30:30.521396"
+        },
+        {
+            "id": "d1b42ff8-bc94-4649-8b45-295a86ef35bf",
+            "student_id": "89d1f430-ae0f-11ed-9bd8-0242ac110002",
+            "semester_id": "ce250af4-b095-11ed-9bd8-0242ac110002",
+            "classificationlevel_id": "5faea396-b095-11ed-9bd8-0242ac110002",
+            "order": 2,
+            "date": "2024-06-19 09:30:30.521396"
+        }
+    ],
+    [
+        {
+            "id": "8f2daaeb-2320-4d44-80ca-d0c0b051b19b",
+            "student_id": "89d1f48a-ae0f-11ed-9bd8-0242ac110002",
+            "semester_id": "ce250af4-b095-11ed-9bd8-0242ac110002",
+            "classificationlevel_id": "5faea332-b095-11ed-9bd8-0242ac110002",
+            "order": 1,
+            "date": "2024-06-19 09:30:30.521396"
+        }
+    ],
+    [
+        {
+            "id": "9923a0c7-64e5-454f-94e0-c364f8d94ee8",
+            "student_id": "89d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+            "semester_id": "ce250af4-b095-11ed-9bd8-0242ac110002",
+            "classificationlevel_id": "5fae9dd8-b095-11ed-9bd8-0242ac110002",
+            "order": 1,
+            "date": "2024-06-19 09:30:30.521396"
+        }
+    ],
+    [
+        {
+            "id": "76a24874-208a-4629-a519-169dbcfd7672",
+            "student_id": "89d1f534-ae0f-11ed-9bd8-0242ac110002",
+            "semester_id": "ce250af4-b095-11ed-9bd8-0242ac110002",
+            "classificationlevel_id": "5faea332-b095-11ed-9bd8-0242ac110002",
+            "order": 1,
+            "date": "2024-06-19 09:30:30.521396"
+        }
+    ],
+    [
+        {
+            "id": "1d731a20-68c3-4135-b334-ca73cf56bf68",
+            "student_id": "89d1f58e-ae0f-11ed-9bd8-0242ac110002",
+            "semester_id": "ce250af4-b095-11ed-9bd8-0242ac110002",
+            "classificationlevel_id": "5faea134-b095-11ed-9bd8-0242ac110002",
+            "order": 1,
+            "date": "2024-06-19 09:30:30.521396"
+        }
+    ],
+    [
+        {
+            "id": "d14eb336-8195-467f-9c28-c3f950a6dcf4",
+            "student_id": "89d1f5de-ae0f-11ed-9bd8-0242ac110002",
+            "semester_id": "ce250af4-b095-11ed-9bd8-0242ac110002",
+            "classificationlevel_id": "5faea332-b095-11ed-9bd8-0242ac110002",
+            "order": 1,
+            "date": "2024-06-19 09:30:30.521396"
+        }
+    ],
+    [
+        {
+            "id": "f548d4b0-5462-4e93-b981-b1bffb32589d",
+            "student_id": "89d1f638-ae0f-11ed-9bd8-0242ac110002",
+            "semester_id": "ce250af4-b095-11ed-9bd8-0242ac110002",
+            "classificationlevel_id": "5faea396-b095-11ed-9bd8-0242ac110002",
+            "order": 1,
+            "date": "2024-06-19 09:30:30.521396"
+        }
+    ],
+    [
+        {
+            "id": "3fa887ba-099a-4cb8-ab7e-5e8eee12c215",
+            "student_id": "89d1f34a-ae0f-11ed-9bd8-0242ac110002",
+            "semester_id": "f6f0cca7-d5b1-4ab6-881f-792b964fe261",
+            "classificationlevel_id": "5faea332-b095-11ed-9bd8-0242ac110002",
+            "order": 1,
+            "date": "2024-06-19 09:30:30.521396"
+        }
+    ],
+    [
+        {
+            "id": "b5adc312-0737-494a-8fb2-119a86b39e9e",
+            "student_id": "89d1f3cc-ae0f-11ed-9bd8-0242ac110002",
+            "semester_id": "f6f0cca7-d5b1-4ab6-881f-792b964fe261",
+            "classificationlevel_id": "5faea2d8-b095-11ed-9bd8-0242ac110002",
+            "order": 1,
+            "date": "2024-06-19 09:30:30.521396"
+        }
+    ],
+    [
+        {
+            "id": "1d29d871-6e4e-480a-bd7e-22a892183ea0",
+            "student_id": "89d1f430-ae0f-11ed-9bd8-0242ac110002",
+            "semester_id": "f6f0cca7-d5b1-4ab6-881f-792b964fe261",
+            "classificationlevel_id": "5fae9dd8-b095-11ed-9bd8-0242ac110002",
+            "order": 1,
+            "date": "2024-06-19 09:30:30.521396"
+        },
+        {
+            "id": "478dfa13-c244-42c5-9763-5c88bdca76fd",
+            "student_id": "89d1f430-ae0f-11ed-9bd8-0242ac110002",
+            "semester_id": "f6f0cca7-d5b1-4ab6-881f-792b964fe261",
+            "classificationlevel_id": "5faea134-b095-11ed-9bd8-0242ac110002",
+            "order": 2,
+            "date": "2024-06-19 09:30:30.521396"
+        }
+    ],
+    [
+        {
+            "id": "6ad145be-0432-425a-9a51-f74ec1f66127",
+            "student_id": "89d1f48a-ae0f-11ed-9bd8-0242ac110002",
+            "semester_id": "f6f0cca7-d5b1-4ab6-881f-792b964fe261",
+            "classificationlevel_id": "5fae9dd8-b095-11ed-9bd8-0242ac110002",
+            "order": 1,
+            "date": "2024-06-19 09:30:30.521396"
+        },
+        {
+            "id": "63c093c3-d70a-4a58-9aef-c0baee981a42",
+            "student_id": "89d1f48a-ae0f-11ed-9bd8-0242ac110002",
+            "semester_id": "f6f0cca7-d5b1-4ab6-881f-792b964fe261",
+            "classificationlevel_id": "5faea134-b095-11ed-9bd8-0242ac110002",
+            "order": 2,
+            "date": "2024-06-19 09:30:30.521396"
+        },
+        {
+            "id": "d423af63-25d4-479f-ab49-8a2d1348c52a",
+            "student_id": "89d1f48a-ae0f-11ed-9bd8-0242ac110002",
+            "semester_id": "f6f0cca7-d5b1-4ab6-881f-792b964fe261",
+            "classificationlevel_id": "5faea21a-b095-11ed-9bd8-0242ac110002",
+            "order": 3,
+            "date": "2024-06-19 09:30:30.521396"
+        }
+    ],
+    [
+        {
+            "id": "3cedd8a0-4c41-4431-8b1e-81d93a785e30",
+            "student_id": "89d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+            "semester_id": "f6f0cca7-d5b1-4ab6-881f-792b964fe261",
+            "classificationlevel_id": "5faea332-b095-11ed-9bd8-0242ac110002",
+            "order": 1,
+            "date": "2024-06-19 09:30:30.521396"
+        }
+    ],
+    [
+        {
+            "id": "9d73bdcb-bd4b-4626-ada1-396a14e78e30",
+            "student_id": "89d1f534-ae0f-11ed-9bd8-0242ac110002",
+            "semester_id": "f6f0cca7-d5b1-4ab6-881f-792b964fe261",
+            "classificationlevel_id": "5faea332-b095-11ed-9bd8-0242ac110002",
+            "order": 1,
+            "date": "2024-06-19 09:30:30.521396"
+        },
+        {
+            "id": "c6efaa51-8d23-4d6a-bae5-ee8323533822",
+            "student_id": "89d1f534-ae0f-11ed-9bd8-0242ac110002",
+            "semester_id": "f6f0cca7-d5b1-4ab6-881f-792b964fe261",
+            "classificationlevel_id": "5faea21a-b095-11ed-9bd8-0242ac110002",
+            "order": 2,
+            "date": "2024-06-19 09:30:30.521396"
+        }
+    ],
+    [
+        {
+            "id": "baf7a975-38a0-42ac-8c23-ecb38617d246",
+            "student_id": "89d1f58e-ae0f-11ed-9bd8-0242ac110002",
+            "semester_id": "f6f0cca7-d5b1-4ab6-881f-792b964fe261",
+            "classificationlevel_id": "5faea134-b095-11ed-9bd8-0242ac110002",
+            "order": 1,
+            "date": "2024-06-19 09:30:30.521396"
+        }
+    ],
+    [
+        {
+            "id": "c26fca29-8ad4-4b21-9ba3-34a074262481",
+            "student_id": "89d1f5de-ae0f-11ed-9bd8-0242ac110002",
+            "semester_id": "f6f0cca7-d5b1-4ab6-881f-792b964fe261",
+            "classificationlevel_id": "5faea21a-b095-11ed-9bd8-0242ac110002",
+            "order": 1,
+            "date": "2024-06-19 09:30:30.521396"
+        }
+    ],
+    [
+        {
+            "id": "7dc25538-9432-4339-a8ed-8ff8c4a9efb1",
+            "student_id": "89d1f638-ae0f-11ed-9bd8-0242ac110002",
+            "semester_id": "f6f0cca7-d5b1-4ab6-881f-792b964fe261",
+            "classificationlevel_id": "5fae9dd8-b095-11ed-9bd8-0242ac110002",
+            "order": 1,
+            "date": "2024-06-19 09:30:30.521396"
+        }
+    ]
 ]
